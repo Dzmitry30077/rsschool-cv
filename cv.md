@@ -25,6 +25,9 @@ In 2020, by chance I read an article on the website habr.com about the top progr
 
 ### Code
 
+- https://github.com/Dzmitry30077/BookStore
+- https://github.com/Dzmitry30077/Blog
+
 ### Education
 
 ### English
