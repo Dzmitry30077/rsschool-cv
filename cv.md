@@ -13,6 +13,16 @@ In 2020, by chance I read an article on the website habr.com about the top progr
 
 ### Skills
 
+- HTML, CSS: responsive/adaptive/bootstrap/SCSS/gulp/БЭМ
+- JS: ES6, Vanilla, TS
+- React: Hooks/Redux-toolkit
+- Git: Github
+- Package managers: Yarn, NPM
+- Graphics: Figma
+- Foreign language: English: pre-intermediate
+- IDE: Visual Studio
+- Other: Python 3
+
 ### Code
 
 ### Education
