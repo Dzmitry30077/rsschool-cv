@@ -19,6 +19,18 @@ header h1 {
   line-height: 43px;
 }
 
+header {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around;
+}
+header img {
+  width: 200px;
+  border-radius: 100%;
+}
+
 .main {
   width: 100%;
 }
