@@ -35,3 +35,6 @@ In 2020, by chance I read an article on the website habr.com about the top progr
 - IT course TeachMeSkills 2021 - 2022 frontend developer
 
 ### English
+
+- Level: A2
+- Courses: Dragon School - 2 month
