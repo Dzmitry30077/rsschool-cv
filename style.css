@@ -91,3 +91,17 @@ header img {
   font-weight: 300;
   line-height: 25px;
 }
+
+@media (max-width: 620px) {
+  header h1 {
+    font-size: 33px;
+    line-height: 33px;
+  }
+  header {
+    justify-content: space-between;
+  }
+  header img {
+    width: 100px;
+    border-radius: 100%;
+  }
+}
